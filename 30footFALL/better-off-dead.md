@@ -1,7 +1,7 @@
-* Better Off Dead - 30footFALL
+# Better Off Dead - 30footFALL
 
-** English lyrics
-[Verse 1]
+## English lyrics
+**[Verse 1]**
 I woke up surprised and disappointed
 To find out I was still me
 Last night should've killed me
@@ -13,14 +13,14 @@ The whole world is against me
 That's what I believe
 Don't waste your empathy on me
 
-[Chorus]
+**[Chorus]**
 I'm through putting one foot in front of the other
 And I do wanna run for cover
 From the moment I wake up 'til I'm
 Staring at the ceiling trying to sleep
 I wonder if I have a soul to keep
 
-[Verse 2]
+**[Verse 2]**
 Voices in my head will not turn off
 There's a heavy weight on top
 Of my chest today
@@ -34,20 +34,20 @@ Playing in traffic for cheap thrills
 I don't know what to do
 That's why I'm telling you that
 
-[Chorus]
+**[Chorus]**
 I'm through putting one foot in front of the other
 And I do wanna run for cover
 From the moment I wake up 'til I'm
 Staring at the ceiling trying to sleep
 I wonder if I have a soul to keep
 
-[Bridge]
+**[Bridge]**
 Sometimes there's nothing on my mind
 But everything at one time
 Find me sliding backwards down
 To where I don't want to be found
 
-[Outro]
+**[Outro]**
 I'm through putting one foot in front of the other
 And I do wanna run for cover
 Stop with these tests give me some rest
@@ -56,8 +56,8 @@ I do believe I have a soul to keep
 
 
 
-** Traducción al Español
-[Verso 1]
+## Traducción al Español
+**[Verso 1]**
 Desperté sorprendido y confundido
 sólo para enterarme de que yo sigo siendo yo.
 Anoche debí matarme.
@@ -69,14 +69,14 @@ El mundo entero está en contra de mí.
 Es por eso que pienso:
 no desperdicies tu empatía en mí.
 
-[Coro]
+**[Coro]**
 Me cansé de poner un pie delante del otro.
 Y quiero correr para refugiarme.
 Desde el momento en que despierto hasta que
 me clavo mirando el techo intentando dormir.
 Me pregunto si tengo un alma que conservar...
 
-[Verso 2]
+**[Verso 2]**
 Voces en mi cabeza que no se apagarán.
 Hay un gran peso encima
 de mi pecho hoy.
@@ -90,20 +90,20 @@ Jugando a cruzar el tráfico por emociones baratas.
 Ya no sé qué hacer.
 Es por eso que te digo que
 
-[Coro]
+**[Coro]**
 Me cansé de poner un pie delante del otro.
 Y quiero correr para refugiarme.
 Desde el momento en que despierto hasta que
 me clavo mirando el techo intentando dormir.
 Me pregunto si tengo un alma que conservar...
 
-[Puente]
+**[Puente]**
 Algunas veces no hay nada en mi mente.
 Pero con todo esto a la vez
 termino deslizándome cuesta abajo,
 hacia donde no quiero ser encontrado.
 
-[Outro]
+**[Outro]**
 Me cansé de poner un pie delante del otro.
 Y quiero correr para refugiarme.
 Basta de estas pruebas, dame algún descanso.
